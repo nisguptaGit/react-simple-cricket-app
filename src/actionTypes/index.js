@@ -1,0 +1,16 @@
+export const MAKE_CHOCOLATE='MAKE_CHOCOLATE';
+export const GIFT_CHOCOLATE='GIFT_CHOCOLATE';
+
+export const CREATE_BOOK='CREATE_BOOK';
+export const DELETE_BOOK='DELETE_BOOK';
+
+export const TAB_CHANGE='TAB_CHANGE';
+export const LOAD_TABS='LOAD_TABS';
+
+
+export const CRIC_NEWS='CRIC_NEWS';
+export const UPCOMING_MATCHES='UPCOMING_MATCHES';
+export const OLD_MATCHES='OLD_MATCHES';
+export const MATCH_CALENDER='MATCH_CALENDER';
+
+export const SHOW_DATA='SHOW_DATA';

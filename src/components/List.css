@@ -1,0 +1,18 @@
+table {
+	width: 100%;
+	margin-top: 10px;
+	padding: 5px,5px;
+	border: 1px solid #990099
+
+	
+}
+
+td, th{
+	border: 1px solid blue
+}
+
+th {
+	font-weight: bolder;
+	font-size: 22;
+	color: blue;
+}
